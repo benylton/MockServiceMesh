@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  apimockservicemesh:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "8080"
