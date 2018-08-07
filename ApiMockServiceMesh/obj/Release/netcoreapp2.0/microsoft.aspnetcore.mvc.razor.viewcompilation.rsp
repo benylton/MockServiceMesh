@@ -1,0 +1,5 @@
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ApiMockServiceMesh
+--content-root=C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh
+--file=

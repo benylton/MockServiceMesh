@@ -1,0 +1,11 @@
+services:
+  apimockservicemesh:
+    build:
+      context: C:\Users\Benylton Lucas\source\repos\MockServiceMesh
+      dockerfile: ApiMockServiceMesh/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: apimockservicemesh
+    ports:
+    - target: 8080
+version: '3.4'

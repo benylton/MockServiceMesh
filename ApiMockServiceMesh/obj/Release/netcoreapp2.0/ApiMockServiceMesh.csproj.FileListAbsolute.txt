@@ -1,0 +1,11 @@
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh\bin\Release\netcoreapp2.0\ApiMockServiceMesh.deps.json
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh\bin\Release\netcoreapp2.0\ApiMockServiceMesh.runtimeconfig.json
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh\bin\Release\netcoreapp2.0\ApiMockServiceMesh.runtimeconfig.dev.json
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh\bin\Release\netcoreapp2.0\ApiMockServiceMesh.dll
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh\bin\Release\netcoreapp2.0\ApiMockServiceMesh.pdb
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh\obj\Release\netcoreapp2.0\ApiMockServiceMesh.csproj.CoreCompileInputs.cache
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh\obj\Release\netcoreapp2.0\ApiMockServiceMesh.AssemblyInfoInputs.cache
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh\obj\Release\netcoreapp2.0\ApiMockServiceMesh.AssemblyInfo.cs
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh\obj\Release\netcoreapp2.0\ApiMockServiceMesh.dll
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh\obj\Release\netcoreapp2.0\ApiMockServiceMesh.pdb
+C:\Users\Benylton Lucas\source\repos\MockServiceMesh\ApiMockServiceMesh\obj\Release\netcoreapp2.0\ApiMockServiceMesh.csprojAssemblyReference.cache
