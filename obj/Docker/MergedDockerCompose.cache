@@ -7,5 +7,5 @@ services:
       ASPNETCORE_ENVIRONMENT: Development
     image: apimockservicemesh
     ports:
-    - target: 8080
+    - target: 80
 version: '3.4'

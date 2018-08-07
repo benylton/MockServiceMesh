@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMockServiceMesh", "ApiMockServiceMesh\ApiMockServiceMesh.csproj", "{350E3134-E1AD-4C18-BEFD-518FFBDF788C}"
-EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{A2D022B0-317E-4F7D-B523-ED366389AAD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiMockServiceMesh", "ApiMockServiceMesh\ApiMockServiceMesh.csproj", "{350E3134-E1AD-4C18-BEFD-518FFBDF788C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{350E3134-E1AD-4C18-BEFD-518FFBDF788C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{350E3134-E1AD-4C18-BEFD-518FFBDF788C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{350E3134-E1AD-4C18-BEFD-518FFBDF788C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A2D022B0-317E-4F7D-B523-ED366389AAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A2D022B0-317E-4F7D-B523-ED366389AAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A2D022B0-317E-4F7D-B523-ED366389AAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A2D022B0-317E-4F7D-B523-ED366389AAD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
